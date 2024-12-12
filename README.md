@@ -7,95 +7,74 @@
 
 ## Summary
 
-**Front-End Developer**  
-Aspire to join a career where I can use my knowledge and experience in helping senior management devise strategic plans that lead to market leadership and bring value to every stakeholder.
 
 ---
 
-## Skills
-
-- HTML5  
-- CSS3  
-- Bootstrap  
-- jQuery  
-- JavaScript  
-- Adobe Photoshop  
-- Figma  
-- React  
-- Angular  
-- WordPress  
-- Docusaurus  
-- GitHub  
+## Career Objective
+Aspire to join a career where I can use my knowledge and experience in helping senior management devise strategic plans that lead to Market Leadership and bring value to every stakeholder.  
 
 ---
 
-## Hobbies and Interests
+## Professional Experience
 
-- Cricket  
-- Gardening  
-- Tourism  
+### Front-End Developer | Sep 2023 – Dec 2024  
+**PrimisAI**  
+- Develop and design user-focused interfaces for PrimisAI’s website and core projects using Docusaurus and React.  
+- Worked with the AI team to enhance the RapidGPT Visual Studio extension, delivering responsive frontend solutions aligned with project objectives.
 
----
+### Front-End Developer | Feb 2023 – Mar 2024  
+**Rapid Silicon**  
+- Designed and implemented frontend interfaces for key projects, including CGA.  
+- Focused on optimizing website performance, developing interactive visualizations, and ensuring stability through thorough testing.
 
-## Experience
+### Front-End Developer | Jan 2019 – Feb 2023  
+**Lampro Mellon**  
+- Managed website development projects, ensuring cross-browser compatibility.  
+- Designed CMS, animated web backgrounds, and converted PSD to HTML for the .NET and marketing teams.
 
-### **09/2023 - Current**  
-**Front-End Developer**  
-**PrimisAI | Lahore**  
-- Develop and design user-focused interfaces for PrimisAI's website and core projects using Docusaurus and React.  
-- Collaborated with the AI team to enhance the RapidGPT Visual Studio extension, delivering responsive frontend solutions aligned with project objectives.
+### Front-End Developer | Apr 2016 – Jan 2019  
+**United We Reach**  
+- Implemented web enhancements for improved functionality and responsiveness.  
+- Designed and maintained company websites, CMS, and educational projects.
 
-### **02/2023 - 03/2024**  
-**Front-End Developer**  
-**Rapid Silicon | Lahore**  
-- Designed and implemented frontend screens for key projects like CGA.  
-- Enhanced performance, created interactive visualizations, and ensured stability through comprehensive testing.
+### Front-End Developer | Jan 2015 – Feb 2016  
+**Hubsol Web Solution**  
+- Consistent application of usability metrics through hand-coded HTML, CSS, JavaScript.  
+- Complete image slicing and optimization.
 
-### **07/2019 - 02/2023**  
-**Front-End Developer**  
-**Lampro Mellon | Lahore**  
-- Developed comprehensive frontend interfaces for various Lampro Mellon projects.  
-- Supported .NET team in frontend design.  
-- Enhanced responsiveness for various platforms, including mobile and desktop.
+### Front-End Developer (Internship) | Sep 2014 – Nov 2014  
+**Aim Solutions (Pvt) Ltd**  
+- Interpreted graphic visual or interaction designs in HTML, CSS, and JavaScript.
 
-### **03/2016 - 06/2019**  
-**Front-End Developer**  
-**United We Reach | Lahore**  
-- Designed and maintained company website.  
-- Implemented scripting languages for building corporate and enterprise-level applications.
+### Senior Research Officer | Jan 2010 – Mar 2014  
+**Abacus Consulting (Pvt) Ltd**  
+- Researched and compared different insurance companies to get the cheapest price for UK-based clients.
 
-### **12/2014 - 03/2016**  
-**Front-End Developer**  
-**Hubsol Web Solution | Lahore**  
-- Created multiple corporate-level websites and desktop applications for various clients.
-
-### **09/2014 - 11/2014**  
-**Front-End Developer**  
-**Aim Solutions (Pvt) Limited | Lahore**  
-- Interpreted graphic, visual, or interaction designs, managing multiple projects simultaneously.  
-- Collaborated with backend developers to ensure seamless integration.
-
-### **01/2014 - 03/2014**  
-**Senior Web Researcher**  
-**Abacus Consulting | Lahore**  
-- Worked on a research-based project.
-
-### **07/2009 - 09/2009**  
-**Internship**  
-**Habib Bank | Lahore**  
-- Gained experience in various banking operations, including the Account Opening, Credit, and Clearing departments.
+### Internship | Jul 2009 – Sep 2009  
+**Habib Bank Mughalpura LHR**  
+- Gained experience working in various bank operations, including Account Opening, Credit Department, and Clearing Department.
 
 ---
 
-## Education
+## Educational Qualification
 
-- **Matric**: Lahore Board | 06/2005  
-- **ICOM**: Shalimar College | 03/2007  
-- **BCOM**: MAO College | 04/2009  
-- **MBA**: Virtual University | 2013  
+| Course                | Period        | College/University                |
+|-----------------------|---------------|-----------------------------------|
+| Web Development       | 2014 to 2014  | EVS Learning Institute.          |
+| MBA (continue)        | 2013.. (Freeze)| Virtual University of Pakistan.  |
+| BCOM (IT)             | 2007 to 2009  | MAO Colleges, Lahore, Pakistan.  |
+| ICOM                  | 2005 to 2007  | Government, Shalimar College, Lahore, Pakistan. |
+| Matric                | 2003 to 2005  | Lahore Board, Lahore, Pakistan.  |
 
 ---
 
-## Websites, Portfolios, and Profiles
+## Skills  
+- **Web Development:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, WordPress, React, Angular, Docusaurus, GitHub, Git.  
+- **Tools:** Adobe Photoshop, Adobe Illustrator, Figma, Dreamweaver, Visual Studio, Version Control (Git/GitHub).
 
-- [LinkedIn Profile](https://www.linkedin.com/in/shoaibghori)
+---
+
+## Declaration
+I am committed to pursuing a challenging career where I can apply my abilities, leverage my skills, and continue learning to grow both personally and professionally. I strive to conduct myself with integrity, contributing positively to the organization and upholding its values.
+
+---
