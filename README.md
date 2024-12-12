@@ -3,10 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoaib%20Ghori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibghori)
 [![Email](https://img.shields.io/badge/Email-shoaib.developer1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaib.developer1@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B92%20313%204210903-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923134210903)
----
-
-## Summary
-
 
 ---
 
@@ -71,10 +67,5 @@ Aspire to join a career where I can use my knowledge and experience in helping s
 ## Skills  
 - **Web Development:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, WordPress, React, Angular, Docusaurus, GitHub, Git.  
 - **Tools:** Adobe Photoshop, Adobe Illustrator, Figma, Dreamweaver, Visual Studio, Version Control (Git/GitHub).
-
----
-
-## Declaration
-I am committed to pursuing a challenging career where I can apply my abilities, leverage my skills, and continue learning to grow both personally and professionally. I strive to conduct myself with integrity, contributing positively to the organization and upholding its values.
 
 ---
