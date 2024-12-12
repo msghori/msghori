@@ -1,9 +1,11 @@
-# M Shoaib Ghori
+## Front-end Developer
 
-📞 03134210903  
+📞 +92 3134210903  
 ✉️ shoaib.developer1@gmail.com  
 📍 Lahore, 54000  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoaib%20Ghori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/humzasami1996](https://www.linkedin.com/in/shoaibghori))
+[![Email](https://img.shields.io/badge/Email-shoaib.developer120%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hshoaib.developer1@gmail.com)
 ---
 
 ## Summary
