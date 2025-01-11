@@ -7,13 +7,13 @@
 ---
 
 ## Career Objective
-Aspire to join a career where I can use my knowledge and experience in helping senior management devise strategic plans that lead to Market Leadership and bring value to every stakeholder.  
+I aspire to join a career where I can use my knowledge and experience to help senior management devise strategic plans that lead to market leadership and bring value to every stakeholder.  
 
 ---
 
 ## Professional Experience
 
-### Front-End Developer | Sep 2023 – Dec 2024  
+### Front-End Developer | Sep 2023 – Continue  
 **PrimisAI**  
 - Develop and design user-focused interfaces for PrimisAI’s website and core projects using Docusaurus and React.  
 - Worked with the AI team to enhance the RapidGPT Visual Studio extension, delivering responsive frontend solutions aligned with project objectives.
@@ -30,12 +30,12 @@ Aspire to join a career where I can use my knowledge and experience in helping s
 
 ### Front-End Developer | Apr 2016 – Jan 2019  
 **United We Reach**  
-- Implemented web enhancements for improved functionality and responsiveness.  
+- Implemented web enhancements to improve functionality and responsiveness.  
 - Designed and maintained company websites, CMS, and educational projects.
 
 ### Front-End Developer | Jan 2015 – Feb 2016  
 **Hubsol Web Solution**  
-- Consistent application of usability metrics through hand-coded HTML, CSS, JavaScript.  
+- Consistent application of usability metrics through hand-coded HTML, CSS, and JavaScript.  
 - Complete image slicing and optimization.
 
 ### Front-End Developer (Internship) | Sep 2014 – Nov 2014  
@@ -48,7 +48,7 @@ Aspire to join a career where I can use my knowledge and experience in helping s
 
 ### Internship | Jul 2009 – Sep 2009  
 **Habib Bank Mughalpura LHR**  
-- Gained experience working in various bank operations, including Account Opening, Credit Department, and Clearing Department.
+- Gained experience in various bank operations, including Account Opening, Credit Department, and Clearing Department.
 
 ---
 
@@ -57,7 +57,7 @@ Aspire to join a career where I can use my knowledge and experience in helping s
 | Course                | Period        | College/University                |
 |-----------------------|---------------|-----------------------------------|
 | Web Development       | 2014 to 2014  | EVS Learning Institute.          |
-| MBA (continue)        | 2013.. (Freeze)| Virtual University of Pakistan.  |
+| MBA (continue)        | 2013... (Freeze)| Virtual University of Pakistan.  |
 | BCOM (IT)             | 2007 to 2009  | MAO Colleges, Lahore, Pakistan.  |
 | ICOM                  | 2005 to 2007  | Government, Shalimar College, Lahore, Pakistan. |
 | Matric                | 2003 to 2005  | Lahore Board, Lahore, Pakistan.  |
