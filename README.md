@@ -200,37 +200,6 @@ Some of the areas I work on and enjoy building:
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=msghori&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-
-  <!-- Top Languages -->
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=msghori&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-
-  <!-- Contribution Streak -->
-  <img
-    width="95%"
-    src="https://streak-stats.demolab.com?user=msghori&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-
-</div>
-
-
----
-
 ## 🤝 Let's Connect
 
 I am always interested in collaborating on innovative web applications, enterprise solutions, AI-powered products, and exciting development projects.
