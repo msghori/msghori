@@ -11,9 +11,6 @@
   <a href="https://github.com/msghori">
     <img src="https://img.shields.io/badge/GitHub-msghori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://exactwebs.com/portfolio.htm">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
