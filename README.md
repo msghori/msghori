@@ -200,17 +200,34 @@ Some of the areas I work on and enjoy building:
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msghori&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=msghori&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msghori&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Top Languages -->
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=msghori&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=msghori&theme=tokyonight&hide_border=true" />
+  <!-- Contribution Streak -->
+  <img
+    width="95%"
+    src="https://streak-stats.demolab.com?user=msghori&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 
 </div>
+
 
 ---
 
